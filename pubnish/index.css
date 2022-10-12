@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  height: 100vh;
+  background-color: aliceblue;
+  overflow: auto;
+}
+.intro {
+  width: 90%;
+  margin: 20px auto;
+}
+.photos {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.photoCon {
+  text-align: center;
+}
+.photo {
+  width: 120px;
+  height: 180px;
+  background: gray;
+  border-radius: 20px;
+  margin: 0 5px;
+}
+.photo:hover {
+  transform: scale(1.2, 1.2);
+  box-shadow: 0 0 20px gray;
+}
+.time {
+}

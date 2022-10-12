@@ -1,0 +1,16 @@
+var photoData = [
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/test.png", time: "2022.10.12" },
+];

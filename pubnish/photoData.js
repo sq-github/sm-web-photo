@@ -1,16 +1,4 @@
 var photoData = [
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
-  { src: "./imgs/test.png", time: "2022.10.12" },
+  { src: "./imgs/zyh/20221021.jpg", time: "2022.10.21" },
+  { src: "./imgs/yyy/20221021.jpg", time: "2022.10.21" },
 ];

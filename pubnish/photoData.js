@@ -4,4 +4,6 @@ var photoData = [
   { src: "./imgs/lwf/lwf20221028.jpg", time: "2022.10.28" },
   { src: "./imgs/mta/mta20221028.jpg", time: "2022.10.28" },
   { src: "./imgs/czk/czk20221028.jpg", time: "2022.10.28" },
+  { src: "./imgs/lwf/lwf20221104.jpg", time: "2022.11.04" },
+  { src: "./imgs/wxy/wxy20221104.jpg", time: "2022.11.04" },
 ];
